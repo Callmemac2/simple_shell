@@ -32,7 +32,7 @@ Simple shell 0.4 +
 Simple shell 1.0 +
 
 10. cd
-Simple shell 1.0 +
+Simple shell 1.0 
 
 11. ;
 Simple shell 1.0 +
