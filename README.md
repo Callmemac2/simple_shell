@@ -26,7 +26,7 @@ Simple shell 0.1 +
 Simple shell 0.2 +
 
 8. Simple shell 0.4.1
-Simple shell 0.4 
+Simple shell 0.4 +
 
 9. setenv, unsetenv
 Simple shell 1.0 +
