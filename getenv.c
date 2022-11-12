@@ -14,7 +14,7 @@ char **get_environ(info_t *info)
 		info->env_changed = 0;
 	}
 
-	return (info->environ)
+	return (info->environ);
 }
 
 /**
