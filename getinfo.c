@@ -32,7 +32,7 @@ void set_info(info_t *info, char **av)
 			if (info->argv)
 			{
 				info->argv[0] = _strdup(info->arg);
-				info->argv[1] = NULL;
+				info->argv[1] = 
 			}
 		}
 		for (i = 0; info->argv && info->argv[i]; i++)
