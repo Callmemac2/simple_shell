@@ -21,7 +21,7 @@ char *get_history_file(info_t *info)
 	_strcpy(buf, dir);
 	_strcat(buf, "/");
 	_strcat(buf, HIST_FILE);
-	return (buf);
+	return (buf)
 }
 
 /**
