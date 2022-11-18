@@ -152,7 +152,7 @@ void fork_cmd(info_t *info)
 	else
 	{
 		wait(&(info->status));
-		if (WIFEXITED(info->status))
+		if (WIFEXITED(info->status)
 		{
 			info->status = WEXITSTATUS(info->status);
 			if (info->status == 126)
